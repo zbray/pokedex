@@ -1,17 +1,21 @@
-
-
 body {
   background-image: url(./assets/galar.jpeg);
   height: 100vh;
-  /* background-size: 100%; */
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-  /* display: flex;
+
+  display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden; */
+  overflow: hidden;
+}
+
+#searchBox {
+  width:50%;
+  height:50vh;
+  background-color: rgba(255, 255, 255, 0.3);
+}
