@@ -1,0 +1,17 @@
+
+
+body {
+  background-image: url(./assets/galar.jpeg);
+  height: 100vh;
+  /* background-size: 100%; */
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden; */
