@@ -32,3 +32,13 @@ body {
   border: 10px black solid;
   border-radius: 50%;
 }
+
+
+/* Types */
+
+.type {
+  font-size: 2ch;
+  width:80px;
+  border:black 1px solid;
+  text-align: center;
+}
